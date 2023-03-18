@@ -1,3 +1,6 @@
+"""
+python3 page_reclaim.py
+"""
 import numpy
 
 # htop으로 확인해보면 Memory가 가득 찬 후 Swap이 증가하는 것을 확인할 수 있다.
