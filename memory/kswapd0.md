@@ -8,7 +8,6 @@
   - [Page Fault 이벤트 확인](#page-fault-이벤트-확인)
   - [Memory Reclaim](#memory-reclaim)
 
-
 ## Virtual Memory
 
 ```sh
