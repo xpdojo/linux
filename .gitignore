@@ -1,0 +1,12 @@
+## Binary files
+*.out
+*.o
+*.exe
+
+## Python
+venv/
+.venv/
+
+## IDE
+.idea/
+.vscode/
