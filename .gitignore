@@ -3,6 +3,11 @@
 *.o
 *.exe
 
+## Trace
+*.data
+*.dat
+*.sym
+
 ## Python
 venv/
 .venv/
